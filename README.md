@@ -1,6 +1,6 @@
 # simple_interest_calculator
 
-A new Flutter application to calculate Simple Interest.
+A simple Flutter application to calculate Simple Interest.
 
 ## Getting Started
 
